@@ -9,11 +9,13 @@
 
 3. CardComponent
 
-4. VdoComponent
+4. Slide Component
 
-5. NoticeComponent
+5. VdoComponent
 
-6. Footer Component
+6. NoticeComponent
+
+7. Footer Component
 
 # Typescript
 
